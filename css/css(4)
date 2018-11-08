@@ -1,0 +1,7 @@
+
+  @font-face {
+    font-family: "Compendium";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Compendium"), local('Compendium'), url("https://d3jpwrui3eswtl.cloudfront.net/compendium/Compendium-Regular.otf") format('opentype');
+  }

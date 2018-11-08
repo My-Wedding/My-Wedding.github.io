@@ -1,0 +1,7 @@
+
+  @font-face {
+    font-family: "Engravers MT";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Engravers MT"), local('EngraversMT'), url("https://d3jpwrui3eswtl.cloudfront.net/engraversmt/EngraversMT-Regular.ttf") format('truetype');
+  }
